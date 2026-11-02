@@ -231,11 +231,12 @@ APIs-Dados-Avancados/
 
 ---
 
-👩‍💻 Autora
+👩‍💻 Autoras
 
 Isabela Costa Nunes
+Juliana Souza Marques 
 
-Estudante de Análise e Desenvolvimento de Sistemas, interessada em desenvolvimento de software, análise de dados, integração de APIs e visualização de informações.
+Estudantes de Análise e Desenvolvimento de Sistemas.
 
 <p align="left">
   <a href="https://github.com/isacosta15">
